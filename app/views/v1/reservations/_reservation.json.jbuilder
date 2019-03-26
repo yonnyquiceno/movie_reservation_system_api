@@ -1,0 +1,6 @@
+json.movie_name reservation.movie_name
+json.user_names reservation.user_names
+json.user_email reservation.user_email
+json.user_personal_id reservation.user_personal_id
+json.user_cellphone reservation.user_cellphone
+json.date reservation.date
